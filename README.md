@@ -35,3 +35,5 @@ Then, double click the Incredibox.exe. It should look something like this:
 Then, you are all set!
 
 (P.S: It may take up to 3 1/2 minutes, depending on your computer. Very good computers can generally finish this in like 1 minute.)
+
+If you want to be extra careful, wait up to 5 minutes before closing the Incredibox program. Closing it preemptively when it is still loading could cause future bugs when you redownload Incredibox Elemental Pack again.
