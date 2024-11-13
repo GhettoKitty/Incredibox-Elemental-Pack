@@ -24,10 +24,6 @@ Then, download the Zip by clicking on it and extract all.
 
 Then, in the extracted exe, you will click on the file extracted exe, and navigate to find the exe file. That part is key.
 
-C:\Users\YOUR_USERNAME\Downloads\IncrediboxPack\IncrediboxPack
-
-(Replace YOUR_USERNAME with your actual username. It should be pretty self explanatory to find.
-
 Then, double click the Incredibox.exe. It should look something like this:
 
 ![image](https://github.com/user-attachments/assets/247106e7-87dd-4262-939f-af8e3c8419a4)
